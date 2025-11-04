@@ -1,0 +1,18 @@
+1) Welche Syntax für den Einstiegspunkt in ein Java Programm ist korrekt?
+
+    b) public static void main(String[] args) {}
+   
+----------------------------------------------------------------------------------
+2) Welches der folgenden Aussagen trifft nicht auf Java zu?
+
+	c) Architektur gebunden
+    
+----------------------------------------------------------------------------------
+3) Vervollständige folgenden Satz.
+	_____ wird verwendet, um den ByteCode in Maschinensprache zu übersetzen.
+	
+	d) JIT
+----------------------------------------------------------------------------------
+4) Was ist eine gültige Java Dateiendung?
+
+	a)  test.java

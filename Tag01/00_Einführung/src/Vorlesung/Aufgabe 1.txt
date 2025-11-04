@@ -1,0 +1,11 @@
+/*
+Zu Beginn des Programmes wird der Variable a der Wert 1000 zugewiesen.
+
+Anschließend wird in der Variable b das Ergebnis der Rechnung "a geteilt durch 10" gespeichert.
+
+Daraufhin wird in die Variable c das Ergebnis der Rechnung "b geteilt durch 10" gefüllt.
+
+Schließlich wird in die Variable d das Ergebnis der Rechnung "c geteilt durch 10" gespeichert.
+
+Zum Schluss sollen die Werte der Variablen a, b, c und d in der Konsole ausgegeben werden.
+*/

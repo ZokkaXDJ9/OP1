@@ -1,0 +1,13 @@
+/* Level 2
+Zu Beginn des Programmes wird der Variable kapital der Wert 100, der Variable jahr der Wert 1 und der Variable prozent der Wert 3 zugewiesen.
+Es folgt die Ausgabe:
+	Startkapital beträgt kapital Euro
+
+Anschließend wird das Kapital um den angegebenen Prozentsatz erhöht und folgendes ausgegeben:
+	Kapital nach jahr Jahr(en): kapital
+
+Im Anschluss wird erneut das Kapital um den abgespeicherten Prozentsatz erhöht, die Variable jahr um 1 erhöht und daraufhin ausgegeben:
+	Kapital nach jahr Jahr(en): kapital
+
+Dies wird fortgesetzt bis zum 5. Jahr, dann endet das Programm.
+ */

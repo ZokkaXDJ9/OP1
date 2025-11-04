@@ -1,0 +1,6 @@
+/* Level 2
+Erstellen Sie ein Programm, welches zählt, wie viele Großbuchstaben in einer Zeichenkette vorkommen.
+For-Schleifen und If-Else funktionieren hier exakt wie Sie auch schon aus C bekannt sind.
+Die Länge einer Zeichenkette kann mit .length() geprüft werden.
+Ob ein Zeichen ein Großbuchstabe ist, erfahren Sie über Character.isUpperCase().
+ */

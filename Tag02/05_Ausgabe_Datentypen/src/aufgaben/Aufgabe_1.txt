@@ -1,0 +1,6 @@
+/* Level 1
+ * Schreiben Sie eine statische Methode, die die Quersumme einer Zahl berechnet.
+ * Übergabewert (Parameter): int zahl
+ * Rückgabewert: Die berechnete Quersumme.
+ * Hinweis: Zur Berechnung bietet sich der Modulo-Operator % an.
+ */

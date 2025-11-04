@@ -1,0 +1,15 @@
+/*
+Gegeben sei der folgende Pseudocode:
+
+Programm
+{
+Eingabe: alter
+falls (alter > 17)
+    Ausgabe: "In Deutschland gelten Sie als volljährig."
+}
+sonst
+{
+    Ausgabe: "In Deutschland gelten Sie nicht als volljährig."
+}
+}
+ */

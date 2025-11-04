@@ -1,0 +1,14 @@
+/* Level 2
+Zu Beginn des Programmes wird der Variable kantenlaengeKubus der Wert 3.75 zugewiesen.
+Anschließend werden Oberfläche und Volumen des Kubus berechnet und in die Variablen oberflaeche und volumen abgespeichert.
+Dann soll die folgende Ausgabe (entsprechend des dargestellten Layouts) ausgegeben werden:
+
+*****************************************
+*       Ergebnisse für Kantenlänge x    *
+*****************************************
+
+Oberfläche: oberflaeche
+Volumen: volumen
+
+(Alle Zahlenwerte auf 2 Nachkommastellen genau)
+ */

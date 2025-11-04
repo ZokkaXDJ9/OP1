@@ -1,0 +1,44 @@
+1) Welche zwei Arten von Packages gibt es in Java
+2 Antworten
+
+	a) Packages von Java
+	
+	b) Packages aus der Java Doc 
+	
+	c) Packages aus der Java-API
+	
+	d) Selbst erstellte Packages
+
+----------------------------------------------------------------------------------
+2)  Welche Aussage zu Packages in Java trifft zu
+
+	 a) Ein Package in Java wird verwendet, um Ordner überflüssig zu machen. 
+	 
+	 b) Ein Package in Java wird verwendet, um Klassen leichter zu finden.
+	 
+	 c) Ein Package in Java wird verwendet, um verwandte Klassen zu ordnen.
+	 
+	 d) Ein Package in Java wird verwendet, um verwandte Klassen zu gruppieren.
+
+----------------------------------------------------------------------------------
+3)  Welche Aussage zu Packages in Java trifft zu
+ 
+	a) Packages enthalten immer nur eine Klasse
+	
+	b) Packages enthalten immer nur ein Interface 
+	
+	c) Alle Klassen im Package dürfen nur protected sein
+	
+	d) Packages sind in Java eine ähnliche Struktur wie die Ordner Struktur im System
+
+----------------------------------------------------------------------------------
+4) Welche Aussage trifft zu
+
+	a) In einer Quelldatei dürfen zwar mehrere Klassen vorhanden sein, es darf jedoch nur maximal eine Klasse als public deklariert sein.
+	
+	b) Innere Klassen sollen für alle anderen Klassen Sichtbar sein.
+	
+	c) Interfaces können keine Methoden mit Körper definieren 
+	
+	d) Abstrakte Klassen haben keine abstrakten Methoden
+

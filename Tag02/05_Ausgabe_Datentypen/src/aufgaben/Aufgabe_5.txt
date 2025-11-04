@@ -1,0 +1,8 @@
+/* Level 3
+Erstellen Sie eine Funktion, die die Fakultät einer übergebenen Zahl berechnet und das Ergebnis zurückgibt.
+
+Fakultät = mathematische Funktion, die eine natürliche Zahl n auf n! = 1 * 2 * … * n abbildet
+https://de.wikipedia.org/wiki/Fakult%C3%A4t_(Mathematik)
+
+Beispiel: 5! = 1 * 2 * 3 * 4 * 5 = 120
+*/

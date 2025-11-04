@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Tag01/00_Einführung/00_Einführung.iml" filepath="$PROJECT_DIR$/Tag01/00_Einführung/00_Einführung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tag02/05_Ausgabe_Datentypen/05_Ausgabe_Datentypen.iml" filepath="$PROJECT_DIR$/Tag02/05_Ausgabe_Datentypen/05_Ausgabe_Datentypen.iml" />
       <module fileurl="file://$PROJECT_DIR$/OP1.iml" filepath="$PROJECT_DIR$/OP1.iml" />
     </modules>
   </component>

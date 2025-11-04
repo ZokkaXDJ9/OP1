@@ -1,0 +1,23 @@
+1)Welche zwei Arten von Packages gibt es in Java
+  2 Antworten
+
+  c) Packages aus der Java-API
+	
+  d) Selbst erstellte Packages
+	
+----------------------------------------------------------------------------------
+2)  Welche Aussage zu Packages in Java trifft zu
+
+  d) Ein Package in Java wird verwendet, um verwandte Klassen zu gruppieren.
+----------------------------------------------------------------------------------
+3)Welche Aussage zu Packages in Java trifft zu
+
+  d) Packages sind in Java eine ähnliche Struktur wie die Ordner Struktur im System
+	
+----------------------------------------------------------------------------------
+4) Welche Aussage trifft zu
+
+  a) In einer Quelldatei dürfen zwar mehrere Klassen vorhanden sein, es darf jedoch nur maximal eine Klasse als public deklariert sein.
+
+	
+
