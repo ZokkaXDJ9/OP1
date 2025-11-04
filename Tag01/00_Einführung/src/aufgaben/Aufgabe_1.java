@@ -1,0 +1,14 @@
+package aufgaben;
+/* Level 1
+Zu Beginn des Programmes wird der Variable a der Wert 1 zugewiesen. Direkt im Anschluss wird dieser Wert ausgegeben.
+Daraufhin wird der Wert von a um 1 erhöht und erneut ausgegeben. Erneut wird a um 1 erhöht und sein Wert anschließend ausgegeben.
+Dies wiederholt sich bis a den Wert 5 hat. Dann endet das Programm.
+ */
+public class Aufgabe_1 {
+
+    static void main(String[] args) {
+        for (int a = 1; a<=5; a++){
+            System.out.println(a);
+        }
+    }
+}
