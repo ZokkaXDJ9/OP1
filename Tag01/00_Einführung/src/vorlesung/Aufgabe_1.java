@@ -1,4 +1,4 @@
-package Vorlesung;
+package vorlesung;
 
 /*
 Zu Beginn des Programmes wird der Variable a der Wert 1000 zugewiesen.

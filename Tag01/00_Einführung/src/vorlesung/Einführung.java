@@ -1,5 +1,5 @@
 // Die erste Zeile Programmcode muss immer die Package-Deklaration sein.
-package Vorlesung; // Alle Klassen in Java gehören zu einem Package. Damit lassen sich Klassen gruppieren / in Kategorien einteilen.
+package vorlesung; // Alle Klassen in Java gehören zu einem Package. Damit lassen sich Klassen gruppieren / in Kategorien einteilen.
 // Pakete stellen die Ordnerstruktur im Dateisystem dar.
 
 // Unser erstes Java Programm - Hallo Welt!

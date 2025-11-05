@@ -1,4 +1,4 @@
-package Vorlesung;
+package vorlesung;
 
 /*
 Gegeben sei der folgende Pseudocode:
