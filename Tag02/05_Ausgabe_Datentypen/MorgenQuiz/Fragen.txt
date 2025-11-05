@@ -1,43 +1,43 @@
 1) Welche Syntax für den Einstiegspunkt in ein Java Programm ist korrekt?
 
 	a) public static void Main(String[] args) {}
-   
-	b) public static void main(String[] args) {}
-   
+       |-> Methoden schreiben wir klein
+	b) public static void main(String[] args) {} (x)
+
 	c) public void main(String[] args) {}
-   
+       |-> main ist statische Methode, dh. sie ist mit der Klasse verbunden, nicht mit einer Instanz
 	d) public static void main(String args) {}
-   
+       |-> Die String Klasse ist ein Array
 ----------------------------------------------------------------------------------
 2) Welches der folgenden Aussagen trifft nicht auf Java zu?
 
  	a) Dynamisch
-	
+	   |-> Java kann zur Laufzeit Klassen laden und binden
     b) Architektur neutral
-    
- 	c) Architektur gebunden
-    
-	d) Objektorientiert
+       |-> Java läuft auf allen Architekturen, auf denen eine JVM implementiert ist
+ 	c) Architektur gebunden (x)
 
+	d) Objektorientiert
+       |-> Java ist eine klassische objektorientierte Programmiersprache
 ----------------------------------------------------------------------------------
 3) Vervollständige folgenden Satz.
 	_____ wird verwendet, um den ByteCode in Maschinensprache zu übersetzen.
 
     a) JVM
-    
+       |-> Das ist die Virtual Machine, auf der die Laufzeitumgebung läuft
 	b) JRE
-    
+       |-> Java Runtime Environment, die Laufzeitumgebung
 	c) JDK
-    
-	d) JIT
-
+       |-> Das Java Development Kit für die Erstellung von Java Programmen
+	d) JIT (x)
 ----------------------------------------------------------------------------------
 4) Was ist eine gültige Java Dateiendung?
 
-	a)  test.java
+	a)  test.java (x)
 
 	b)  test.javac
-
+        |-> javac = Java Compiler, kein Dateiformat
 	c)  test.txt
-
+        |-> txt = Textdatei, kein Java Quellcode
 	d)  test.java-c
+        |-> java-c = kein gültiges Dateiformat, Sonderzeichen nicht erlaubt
