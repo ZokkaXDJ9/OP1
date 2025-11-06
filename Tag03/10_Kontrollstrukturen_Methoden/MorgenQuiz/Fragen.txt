@@ -1,0 +1,53 @@
+1) Welche int Variable ist korrekt?
+
+   a) int i = 12345678901;
+   
+   b) int i = -12345678901;
+   
+   c) int i = 123456789012;
+   
+   d) int i = -1234567890;
+   
+----------------------------------------------------------------------------------
+2)  Welche long Variable ist nicht korrekt?
+
+    a) long l = 12345678901234L;
+	
+    b) long l = 12345678901234l;
+    
+	c) long l = -123456789012341;
+    
+	d) long l = -12345678901234l;
+----------------------------------------------------------------------------------
+3) Was wird ausgegeben aus?
+=> 	float f = 35 / 0 ;
+	System.out.println(f);
+
+    a) 0
+    
+	b) 35
+    
+	c) java.lang.ArithmeticException
+----------------------------------------------------------------------------------
+4) Welche float Variable ist nicht korrekt?
+		
+    a) float f = -35.0F;
+    
+	b) float f = 35.0f;
+    
+	c) float f = -35.0;
+    
+	d) float f = -35;
+----------------------------------------------------------------------------------
+5) Was wird die Ausgabe des folgenden Programms sein?
+    int kantenlänge = 3;
+	for (int i = 0; i < kantenlänge; i++) {
+		for (int j = 0; j < kantenlänge; j++) {
+			System.out.print("# ");
+		}
+	}
+	
+	a)  9 mal #
+	b)  10 mal #
+	c)  11 mal #
+	d)  12 mal #

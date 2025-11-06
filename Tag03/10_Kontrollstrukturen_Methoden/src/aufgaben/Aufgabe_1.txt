@@ -1,0 +1,12 @@
+/* Level 1
+ * Führen Sie 3 Integer-Variablen ein: auswahl, zahl1 und zahl2.
+ * Über auswahl soll in einem Switch-Case eine Wahl getroffen werden, welche der 4 Grundrechenarten als Methode aufgerufen wird.
+ * Sollte eine falsche Auswahl getroffen werden soll eine Ausgabe auf der Konsole erscheinen die anzeigt, welche Auswahl getroffen
+ * wurde und das diese nicht korrekt oder verfügbar ist.
+ * Schreiben Sie für jede Rechenart eine separate Methode und übergeben Sie an sie die für die Berechnung notwendigen Parameter
+ * zahl1 und zahl2.
+ * In der Methode soll dann die Berechnung durchgeführt und das Ergebnis an die main zurückgegeben werden.
+ * Die Ausgabe des Ergebnisses soll dann auf der Konsole erscheinen.
+ *
+ * Beachten: Geben Sie eine Fehlermeldung auf der Konsole aus, wenn durch 0 dividiert wird.
+ */

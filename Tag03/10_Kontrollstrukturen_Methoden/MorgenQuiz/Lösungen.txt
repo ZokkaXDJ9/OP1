@@ -1,0 +1,31 @@
+1) Welche int Variable ist korrekt?
+   
+   d) int i = -1234567890;
+   
+----------------------------------------------------------------------------------
+2)  Welche long Variable ist nicht korrekt?
+    
+	c) long l = -123456789012341;
+	
+----------------------------------------------------------------------------------
+3) Was gibt die folgende Syntax aus?
+=> 	float f = 35 / 0 ;
+	System.out.println(f);
+
+	c) java.lang.ArithmeticException
+	
+----------------------------------------------------------------------------------
+4) Welche float Variable ist nicht korrekt?
+    
+	c) float f = -35.0;
+	
+----------------------------------------------------------------------------------
+5) Was wird die Ausgabe des folgenden Programms sein?
+int kantenlänge = 3;
+	for (int i = 0; i < kantenlänge; i++) {
+		for (int j = 0; j < kantenlänge; j++) {
+			System.out.print("# ");
+		}
+	}
+
+	d) 9 mal #

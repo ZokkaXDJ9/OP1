@@ -1,0 +1,6 @@
+/* Level 2
+ * Erweitern Sie die Aufgabe 3 mit der Angabe einer Integer-Variable "jahr" um ein bestimmtes Jahr einzuführen.
+ * Danach führen sie eine Kontrollmethode istSchaltjahr ein, die das Jahr kontrolliert, ob es ein Schaltjahr ist.
+ * Wenn ja soll anstatt 28 im Februar 29 Tage ausgegeben werden.
+ * Die neue Konsolenausgabe soll dann lauten: "Der "+monat+" hat im Jahr "+jahr"+" : "+tage+" Tage.
+ */
