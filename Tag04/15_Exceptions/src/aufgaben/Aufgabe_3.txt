@@ -1,0 +1,16 @@
+/* Level 3
+    Schauen Sie sich, um diese Aufgabe zu lösen, das Thema DatumsFormat aus den Codebeispielen an.
+    Alternativ recherchieren Sie online.
+
+    Führen Sie bitte zunächst die folgende Methode ein:
+    Methodenname: tryStringToDate
+    Übergabewerte: String s
+    Funktion: - Versucht s in LocalDate zu konvertieren
+              - Fängt bei DateTimeParseException die Fehlermeldung ab
+
+    Rückgabewert: das LocalDate Objekt, FALLS Konvertierung klappte, sonst null
+
+    Testen Sie diese Funktion.
+
+    Hinweis: "LocalDate" ist ein Datentyp wie Integer oder String und kann als solches auch für Variablen verwendet werden. Und wie bei Integer gibt es für LocalDate auch Funktionen, die aufgerufen werden können.
+*/

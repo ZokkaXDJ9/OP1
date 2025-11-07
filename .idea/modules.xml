@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Tag01/00_Einführung/00_Einführung.iml" filepath="$PROJECT_DIR$/Tag01/00_Einführung/00_Einführung.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tag02/05_Ausgabe_Datentypen/05_Ausgabe_Datentypen.iml" filepath="$PROJECT_DIR$/Tag02/05_Ausgabe_Datentypen/05_Ausgabe_Datentypen.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tag03/10_Kontrollstrukturen_Methoden/10_Kontrollstrukturen_Methoden.iml" filepath="$PROJECT_DIR$/Tag03/10_Kontrollstrukturen_Methoden/10_Kontrollstrukturen_Methoden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tag04/15_Exceptions/15_Exceptions.iml" filepath="$PROJECT_DIR$/Tag04/15_Exceptions/15_Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spielerei/Game/Game.iml" filepath="$PROJECT_DIR$/Spielerei/Game/Game.iml" />
       <module fileurl="file://$PROJECT_DIR$/OP1.iml" filepath="$PROJECT_DIR$/OP1.iml" />
     </modules>

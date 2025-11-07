@@ -1,0 +1,5 @@
+/* Level 1
+
+Schreiben Sie ein Programm, bei dem eine Methode eine Division ausführt.
+Erzwingen Sie bei Aufruf dieser eine 0 Division und fangen Sie den dazugehörigen Fehler ab.
+ */

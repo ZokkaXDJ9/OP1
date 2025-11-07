@@ -1,0 +1,4 @@
+/* Level 1
+    Schreiben Sie ein Programm, bei dem ein Array mittels Schleife befüllt wird und zu viele Elemente hinzugefügt werden.
+    Fangen Sie den dabei auftretenden Fehler ab.
+ */

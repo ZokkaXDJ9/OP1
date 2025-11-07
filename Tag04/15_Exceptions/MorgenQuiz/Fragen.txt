@@ -1,0 +1,43 @@
+1) Was ist keine korrekte For-Schleife-Syntax?
+
+    a) for ( int i = 10; i >= 0; i / 8 )
+	b) for ( int i = 7; i <= 77; i += 7 )
+	c) for ( int i = 20; i >= 2; --i)
+	d) for ( int i = 2; i <= 20; i = 2* i )
+
+   
+----------------------------------------------------------------------------------
+2)  Was ist kein gültiger Datentyp in Java?
+
+    a) string
+	
+    b) byte
+    
+	c) char
+    
+	d) double
+
+----------------------------------------------------------------------------------
+3) Was steht in jeder Java Datei am Anfang, wenn sie im Package "Test" liegt?
+
+    a) package Test;
+    
+	b) import Test
+    
+	c) package Test
+    
+	d) class Test;
+
+----------------------------------------------------------------------------------
+4) Sollte die Abbruchbedingung innerhalb einer rekursiven while Schleife nie erreicht werden,
+kann es zu welchem Fehler kommen?
+		
+    a) StackOverflowError
+    
+	b) IllegalArgumentException
+    
+	c) NullPointerException
+    
+	d) IOException
+
+----------------------------------------------------------------------------------
