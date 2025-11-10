@@ -1,0 +1,9 @@
+/* Level 2
+ * Schreiben Sie ein Programm, das
+ * eine Zufallszahl von 1 bis inklusive 99 auswürfelt
+ * und den Benutzer in einer Schleife über eine Eingabe die Zahl erraten lässt.
+ * Dabei wird die eingegebene Zahl in einen Integer geparst. Bei falscher Eingabe soll wiederholt werden.
+ * Das Programm teilt nun dem Benutzer mit, ob die Schätzung kleiner oder größer als die gewürfelte Zahl war.
+ * Die Schleife endet, wenn die gewürfelte Zahl getroffen wurde.
+ * Dem Benutzer wird die Anzahl der Versuche ausgegeben
+ */

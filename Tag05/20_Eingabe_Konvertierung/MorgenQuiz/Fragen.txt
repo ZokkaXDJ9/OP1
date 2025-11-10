@@ -1,0 +1,28 @@
+1) Welches sind keine Ausnahme Bezeichnungen in Java (2 Antworten)
+
+    a) Checked Exception
+    
+	b) Checked Error
+    
+	c) Unchecked Exception
+    
+	d) Unchecked Error
+
+   
+----------------------------------------------------------------------------------
+2)  Was ist der Unterschied zwischen Checked und Unchecked Exceptions?
+
+
+
+----------------------------------------------------------------------------------
+3) Warum treten Unchecked Exception auf?
+
+    a) Weil der Anwender das Programm nicht richtig benutzt
+    
+	b) Weil eine Datei nicht gefunden werden konnte
+    
+	c) durch Fehlerhaft Nutzung von APIs
+    
+	d) durch falsches Starten des Programms
+----------------------------------------------------------------------------------
+

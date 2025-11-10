@@ -1,0 +1,20 @@
+1) Welches ist keine Ausnahme Bezeichnung in Java
+    
+	b) Checked Error
+    
+	d) Unchecked Error
+
+----------------------------------------------------------------------------------
+2) Was ist der Unterschied zwischen Checked und Unchecked Exceptions?
+
+    Der Compiler prüft, ob Checked Exceptions gefangen werden.
+    Wird die Checked Exception nicht gefangen, lässt sich das Programm nicht kompilieren.
+
+----------------------------------------------------------------------------------
+
+3) Warum treten Unchecked Exception auf?
+    
+	c) durch fehlerhafte Nutzung von APIs
+	
+----------------------------------------------------------------------------------
+

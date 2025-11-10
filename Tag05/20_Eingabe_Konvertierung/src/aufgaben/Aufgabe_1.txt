@@ -1,0 +1,6 @@
+/* Level 1
+ * Schreiben Sie eine statische Methode, die vom Benutzer eine Zahl abfragt und die eingegebene Zahl als Integer zurückgibt.
+  Wenn der Benutzer etwas eingibt, was keine ganze Zahl ist, soll eine Fehlermeldung erscheinen und die Abfrage wird wiederholt.
+ * Geben Sie zum Testen die eingegebene Zahl in der Konsole aus.
+ * Rückgabewert: Die eingegebene Zahl
+ */
