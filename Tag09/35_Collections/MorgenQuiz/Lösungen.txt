@@ -1,0 +1,51 @@
+1) Was wird ausgegeben?
+/*
+    String[][] zweiDimArray =
+	{
+	{"Ausgabe1","Ausgabe2"},
+	{"Ausgabe3","Ausgabe4","Ausgabe5"},
+	{"Ausgabe6"}
+	}; 
+	System.out.println(zweiDimArray [1][2]);
+*/
+	
+	b) Aufgabe5
+	
+----------------------------------------------------------------------------------
+2)  Was passiert wenn dieser Code ausgeführt wird?
+/*
+    char[][] arr = new char[7][6];
+
+    for (int i = 0; i < arr.length; i++) {
+        for (int j = 0; j < arr.length; j++) {
+            arr[i][j] = '#';
+        }
+    }
+*/
+	c) Fehler => ArrayIndexOutOfBoundsException
+
+----------------------------------------------------------------------------------
+3) Was passiert wenn dieser Code ausgeführt wird?
+/*
+	int[][] arr = { { 0 }, { 7, 3 }, { 4, 1, 5 }, { 9, 8, 7, 6 } };
+	Arrays.sort(arr);
+	System.out.println(Arrays.toString(arr));
+*/
+
+	c) Fehler
+	
+----------------------------------------------------------------------------------
+4) Was passiert wenn dieser Code ausgeführt wird?
+/*
+    int[][] a = { { 0 },{ 1, 2 },{ 3, 4, 5 },{ 6, 7, 8, 9 }};
+    for (int i = 0; i < a.length; ++i) {
+        for (int j = 0; j < a[i].length; ++j) {
+            System.out.print(a[i][j]);
+            System.out.print(" ");
+        }
+    }
+*/
+		
+	a) Ausgabe => 0 1 2 3 4 5 6 7 8 9 
+	
+----------------------------------------------------------------------------------

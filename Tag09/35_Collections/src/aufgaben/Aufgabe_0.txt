@@ -1,0 +1,13 @@
+/* Level 1
+ * Eine Einkaufsliste:
+ * Im Main erzeugen Sie eine Liste vom Typ String und fügen ihr fünf Dinge (Brot, Butter, Käse, Rasierschaum, Schokolade) hinzu.
+ * Lassen Sie anschließend alle Strings der Liste über eine Foreach-Schleife ausgeben.
+ */
+
+
+
+
+
+
+
+
