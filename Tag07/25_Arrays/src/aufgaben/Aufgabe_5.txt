@@ -1,0 +1,22 @@
+/* Level 2
+
+Stellen Sie sich vor, Sie arbeiten für ein Einzelhandelsunternehmen und sollen die Verkaufszahlen eines bestimmten Produkts über einen Zeitraum von 30 Tagen analysieren. Ihr Ziel ist es, die minimalen, maximalen und durchschnittlichen Verkaufszahlen zu ermitteln.
+
+Anforderungen:
+
+    Verkaufsdatenarray:
+        Erstellen Sie ein eindimensionales Array int[] sales, das die Verkaufszahlen für 30 Tage speichert.
+        Dabei steht der Index des Arrays für den Tag, beginnend bei Index 0 für Tag 1 des Monats.
+        Füllen Sie das Array mit zufälligen Verkaufszahlen zwischen 0 und 100, um die täglichen Verkäufe zu simulieren.
+
+    Analyse:
+        Implementieren Sie eine Methode analyzeSales(int[] sales), die die folgenden Informationen berechnet und ausgibt:
+            Die minimale Verkaufszahl und der entsprechende Tag.
+            Die maximale Verkaufszahl und der entsprechende Tag.
+            Die durchschnittliche Verkaufszahl über die 30 Tage.
+
+Erwartete Ausgabe (Beispiel):
+    Minimaler Verkauf: 3 Einheiten am Tag 5
+    Maximaler Verkauf: 95 Einheiten am Tag 12
+    Durchschnittlicher Verkauf: 48.7 Einheiten
+*/

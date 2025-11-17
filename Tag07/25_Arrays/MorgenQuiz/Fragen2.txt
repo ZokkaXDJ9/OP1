@@ -1,0 +1,33 @@
+1) Was ist die richtige Antwort?
+    String s = "121";
+    System.out.println(s.indexOf('1'));
+
+	a) Es wird ausgegeben => 1
+	
+	b) Es wird ausgegeben => 0
+	
+	c) Fehler in diesem Code
+
+----------------------------------------------------------------------------------
+2)  Was ist die richtige Antwort?
+    String s = " 121 ";
+    System.out.println(s.replace('2','3'));
+
+	a) Es wird ausgegeben=> 131 
+	
+	b) Es wird ausgegeben=> 121  
+	
+	c) Fehler in diesem Code
+
+----------------------------------------------------------------------------------
+3)  Was ist die richtige Antwort?
+    String s = " 121 ";
+    System.out.println(s.indexOf("23")); 
+
+	a) Es wird 0 ausgegeben
+	
+	b) Es wird -1 ausgegeben
+	
+	c) Fehler in diesem Code
+	
+	d) Es wird 1 ausgegeben

@@ -1,0 +1,73 @@
+1) Welches Package muss importiert werden, um Collections zu benutzen?
+
+	a) java.lang
+	
+	b) java.net
+	
+	c) java.util
+	
+	d) java.awt
+
+----------------------------------------------------------------------------------
+2)   Welche dieser Methoden existiert nicht für den Typen ArrayList? 
+
+	a) add(E e)
+	
+	b) contains(Object o)
+	
+	c) get(int index)
+	
+	d) getAll()
+
+----------------------------------------------------------------------------------
+3)  Was wird passieren, wenn dieser Code ausgeführt wird?
+/*
+	ArrayList<String> list =
+	new ArrayList<>(Arrays.asList("Test", "Test2","Test3"));
+	System.out.println(list.size());
+*/
+	a) Ausgabe => 2
+	
+	b) Ausgabe => 3 
+	
+	c) Ausgabe => 4
+	
+	d) Fehler
+	
+
+----------------------------------------------------------------------------------
+4)  Welche Methode löscht alle Elemente aus einer Collection?
+		
+	a) clear()
+		
+	b) delete()
+	
+	c) reset()
+	
+	d) refresh()
+----------------------------------------------------------------------------------
+5)  Welche zusätzliche Möglichkeit bietet Java, um Listen zu durchlaufen?
+		
+	a) Iterator
+		
+	b) Enumerator
+	
+	c) Numerator
+	
+----------------------------------------------------------------------------------
+6) Was wird passieren, wenn dieser Code ausgeführt wird?
+/*
+	LinkedList linkedList = new LinkedList<>();
+	linkedList.add("a");
+	linkedList.add("b");
+	linkedList.add("c");
+	System.out.println(linkedList);
+* 
+
+	a) Ausgabe => [c, b, a]
+		
+	b) Fehler
+	
+	c) Ausgabe => [a, b, c]
+	
+----------------------------------------------------------------------------------

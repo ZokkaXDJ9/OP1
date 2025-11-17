@@ -1,0 +1,26 @@
+1) Was ist die richtige Antwort?
+/*
+    String s = "121";
+    System.out.println(s.indexOf('1')); 
+*/
+
+	b) Es wird 0 ausgegeben
+	
+----------------------------------------------------------------------------------
+2)  Was ist die richtige Antwort?
+/*
+    String s = " 121 ";
+    System.out.println(s.replace('2','3')); 
+*/
+
+	a) Es wird 131 ausgegeben
+	
+----------------------------------------------------------------------------------
+3) Was ist die richtige Antwort ?
+/*
+    String s = " 121 ";
+    System.out.println(s.indexOf("23")); 
+*/
+	
+	b) Es wird -1 ausgegeben
+	

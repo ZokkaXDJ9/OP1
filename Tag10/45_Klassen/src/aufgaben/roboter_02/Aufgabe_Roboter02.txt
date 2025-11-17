@@ -1,0 +1,18 @@
+Aufgabe: Erweiterung 2 des Programmes Roboter  
+
+Entwickeln Sie ein Java-Programm, das das von Ihnen überarbeitete, bekannte “Butter-reichende Roboter”-Programm nochmals erweitert.
+
+Klasse: Aufgaben
+	Die Klasse Aufgaben soll so angepasst werden das nun schon beim Erstellen des Aufgaben-Objektes die beiden Attribute String name 
+	und int kostenbatterie befüllt werden.
+
+Enum: Farbcode
+	Beschäftigen Sie sich mit dem Thema ANSI-Colors in Java und stellen Sie über ein Enum Farbcode diese zu Verwendung bereit.
+
+Klasse: Roboter
+	Passen Sie die Ausgaben, die auf der Konsole erscheinen sollen durch eine eigene Farbgestaltung an.
+
+Klasse: Programm
+	In der main() Methode der Klasse Programm sollen Sie nun mehrere Aufgaben erstellen. 
+	Anschließend erstellen Sie einen Roboter und weisen ihm Aufgaben über die Methode fuehreAufgabeAus() zu. 
+	Überprüfen Sie abschließend alle Funktionen und gewünschten Kriterien.

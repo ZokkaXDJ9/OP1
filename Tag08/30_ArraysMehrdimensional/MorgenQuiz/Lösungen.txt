@@ -1,0 +1,25 @@
+1) Was ist die Richtige Antwort?
+/*
+    int[] arr = {24, -7, 123456, 25, -64};
+	System.out.println(arr[5]); 
+*/
+
+	c) Fehler in diesem Code
+	
+----------------------------------------------------------------------------------
+2)  Was ist die Richtige Antwort?
+/*
+    int[] intArray =  {1,2,3,4,8,7,6,5};
+	System.out.println(intArray.length); 
+*/
+
+		b) Es wird 8 ausgegeben
+	
+----------------------------------------------------------------------------------
+3) Was ist die Richtige Antwort?
+/*
+	int[] intArray =  {1,2,3,4,8,7,6,5};
+	System.out.println(Arrays.toString(intArray.length));  
+*/
+	
+	c) Fehler in diesem Code

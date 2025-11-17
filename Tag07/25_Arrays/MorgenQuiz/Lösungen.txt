@@ -1,0 +1,26 @@
+1) Sind diese Befehle korrekt?
+    Byte b = 50 ;
+    b = b * 50 ;
+
+	b) nein
+	
+----------------------------------------------------------------------------------
+2)  Welchen wert hat die Variable zahl2?
+/*
+	double zahl = 7.9;
+	int zahl2 = (int) zahl;
+*/
+	
+    b) 7
+	
+----------------------------------------------------------------------------------
+3) Welche Syntax ist korrekt und ein explizieter Cast?
+    
+	c) int zahl = (int) 3.2;
+	
+----------------------------------------------------------------------------------
+4) Welche ist in der Scanner Klasse keine gültige Methode?
+    
+	d) nextString()
+	
+----------------------------------------------------------------------------------

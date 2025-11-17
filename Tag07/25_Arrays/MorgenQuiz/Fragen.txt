@@ -1,0 +1,33 @@
+1) Sind diese Befehle korrekt?
+    byte b = 50 ;
+    b = b * 50 ;
+
+	a) ja
+	b) nein
+   
+----------------------------------------------------------------------------------
+2)  Welchen Wert hat die Variable zahl2?
+	double zahl = 7.9;
+	int zahl2 = (int) zahl;
+
+    a) 7.9
+    b) 7
+    c) 7.0
+    d) 8
+
+----------------------------------------------------------------------------------
+3) Welche Syntax ist ein expliziter Cast?
+
+    a) int zahl = 3.2;
+	b) int zahl = Integer.parseInt(3.2);
+	c) int zahl = (int) 3.2;
+	d) int zahl = Integer.parseInt("3.2");
+
+----------------------------------------------------------------------------------
+4) Welche ist in der Scanner Klasse keine gültige Methode?
+		
+    a) nextLine()
+	b) nextBoolean()
+	c) next()
+	d) nextString()
+----------------------------------------------------------------------------------
