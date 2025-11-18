@@ -1,0 +1,19 @@
+1)  Was ist die Ausgabe?
+	
+	c) Egon das Erste
+	
+----------------------------------------------------------------------------------
+2) Mit welcher default Kapazität wird eine ArrayList erstellt
+
+	b) 10
+	// https://www.baeldung.com/java-list-capacity-array-size
+	// https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/ArrayList.html#%3Cinit%3E()
+----------------------------------------------------------------------------------
+3) Was ist der Unterschied zwischen private und public in Java?
+
+    a) Mit private können Variablen oder Methoden nur innerhalb derselben Klasse aufgerufen werden, während mit public der Zugriff von überall im Programm möglich ist.
+
+----------------------------------------------------------------------------------
+4) Was besagt das Geheimnisprinzip?
+
+    b) Attribute einer Klasse sind vor direktem Zugriff geschützt.

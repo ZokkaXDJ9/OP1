@@ -1,0 +1,25 @@
+/* Level 2
+
+Sie sollen ein einfaches Sitzplatzreservierungssystem für ein Kino entwerfen. Die Sitzplätze werden in einem zweidimensionalen Array dargestellt, und jeder Sitzplatz ist ein Objekt der Klasse Seat.
+
+Anforderungen:
+
+    Klasse Seat:
+        Erstellen Sie eine Klasse Seat mit den folgenden Attributen:
+            int row: Die Zeile des Sitzplatzes.
+            int column: Die Spalte des Sitzplatzes.
+            boolean isReserved: Gibt an, ob der Sitzplatz reserviert ist oder nicht.
+        Implementieren Sie einen Konstruktor, der die Zeile und Spalte initialisiert und isReserved auf false setzt.
+        Implementieren Sie eine Methode reserve(), die den Sitzplatz reserviert (d.h., isReserved auf true setzt).
+
+    Sitzplatzmatrix:
+        Erstellen Sie ein zweidimensionales Array Seat[][] mit einer Größe von 5x5, um die Sitzplätze im Kino darzustellen.
+
+    Suchalgorithmus:
+        Implementieren Sie eine Methode findAndReserveFirstAvailableSeat(), die den ersten nicht reservierten Sitzplatz im Array sucht und reserviert. Geben Sie die Position des reservierten Sitzplatzes auf der Konsole aus. Falls kein Sitzplatz verfügbar ist, geben Sie eine entsprechende Nachricht aus.
+
+    Testen:
+        Reservieren Sie einige Sitzplätze manuell, um den Suchalgorithmus zu testen.
+        Rufen Sie die Methode findAndReserveFirstAvailableSeat() auf und überprüfen Sie, ob der Sitzplatz korrekt reserviert wurde.
+
+*/

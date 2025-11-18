@@ -1,0 +1,39 @@
+1)  Was ist die Ausgabe?
+/*
+public class Test2 {   
+    public static void  main(String[] args) {       
+        StringBuffer sBuffer =  new  StringBuffer( "Egon der Erste" );  
+		        sBuffer.setCharAt( 6 , 'a' );  
+		        sBuffer.setCharAt( 7 , 's' );  
+		        System.out.println(sBuffer);  
+     }  
+ }
+*/
+	a) Egon dar Ersste
+	b) Egon dea Erstse
+	c) Egon das Erste
+	d) Egon der Erste
+
+----------------------------------------------------------------------------------
+2) Mit welcher default Kapazität wird eine ArrayList erstellt
+
+	a) 5
+	b) 10
+	c) 0
+	d) 100
+
+----------------------------------------------------------------------------------
+3) Was ist der Unterschied zwischen private und public in Java?
+
+    a) Mit private können Variablen oder Methoden nur innerhalb derselben Klasse aufgerufen werden, während mit public der Zugriff von überall im Programm möglich ist.
+
+    b) Private erlaubt den Zugriff auf Variablen oder Methoden von überall im Programm, während public die Sichtbarkeit auf die aktuelle Klasse beschränkt.
+
+    c) Private und public sind austauschbare Schlüsselwörter, die keinen Einfluss auf den Zugriff haben.
+
+----------------------------------------------------------------------------------
+4) Was besagt das Geheimnisprinzip?
+
+    a) Unser Programmcode darf nicht eingesehen werden.
+    b) Attribute einer Klasse sind vor direktem Zugriff geschützt.
+    c) Die Dokumentation des Programmes darf keine Details über die Funktionalität von Methoden enthalten.

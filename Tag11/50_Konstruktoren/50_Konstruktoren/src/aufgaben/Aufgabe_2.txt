@@ -1,0 +1,41 @@
+/* Level 3
+
+    In einer Versicherungsagentur arbeiten 10 Angestellte Versicherungsmakler (VM).
+
+    Jeder VM hat ein Grundgehalt von 1500 Euro.
+    Pro Monat muss jeder VM 20 Verträge mit Kunden abschließen.
+
+    Dabei spielt es zur Vereinfachung keine Rolle, was für Verträge abgeschlossen werden.
+    (KFZ, Hausrat, Leben, Unfall, etc.. total egal :-) )
+
+    Schließt ein VM die geforderten 20 Verträge ab, bleibt alles so, wie es ist.
+
+    Schließt er mehr Verträge ab, erhält er eine Provision auf jeden über das vertraglich
+    vereinbarte hinausgehenden Vertrag.
+    Die Mehrleistung wird festgehalten und spielt bei der nächsten Gehaltsanpassung eine Rolle.
+
+    Schließt er weniger Verträge ab, dann wird auch das für die nächste Gehaltsanpassung vermerkt.
+
+    Die Gehaltsanpassungen erfolgen jährlich.
+
+    Bei allen VM, die über das Jahr mehr Verträge als vereinbart abgeschlossen haben,
+    gibt es eine Gehaltserhöhung von 10% bezogen auf das aktuelle Gehalt.
+
+    Alle VM, die weniger Verträge als vereinbart abgeschlossen haben, kriegen eine
+    Gehaltskürzung von 5%.
+
+    Es soll ein Zeitraum von 10 Jahren betrachtet werden.
+    Dabei erfolgt die Ausgabe für jeden VM monatsweise und zusammengefasst jährlich.
+
+    Die Provision pro abgeschlossenem Vertrag über die 20 vertraglich vereinbarten
+    Verträge beträgt 7% des aktuellen Monatslohns.
+    Ein VM schließt ZUFÄLLIG zwischen 15 und 25 Verträge pro Monat ab.
+
+    HINWEISE:
+    Alle Zahlenwerte der Aufgabe werden zur Vereinfachung an zentraler Stelle in globalen
+    public Attributen gespeichert. Wir WISSEN, dass Getter-Setter sinnvoll sind und dass die Übergabe von Parametern guter Stil ist.
+    Das muss reichen :-)
+
+    Erstellt geeignete Klassen für die verschiedenen Aspekte dieser Aufgabe. Vererbung wird nicht benötigt, kann aber gerne eingesetzt werden.
+
+*/
