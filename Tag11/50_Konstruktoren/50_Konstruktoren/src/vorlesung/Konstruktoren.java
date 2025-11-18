@@ -11,7 +11,7 @@ public class Konstruktoren
         auto1.setAnzahlTüren(4);
         System.out.println("Anzahl Türen: " + auto1.getAnzahlTüren());
 
-        Computer c1 = new Computer(512); // <-- Konstruktor-Aufruf
+        Computer c1 = new Computer(512, "Thomas"); // <-- Konstruktor-Aufruf
         System.out.println("Speicherplatz: " + c1.getSpeicherplatz() + " GB");
         System.out.println("Besitzer: " + c1.getBesitzer());
     }

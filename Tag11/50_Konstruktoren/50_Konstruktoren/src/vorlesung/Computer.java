@@ -22,8 +22,15 @@ public class Computer
         this.besitzer = besitzer;
     }
 
-    public Computer(int speicherplatz) {
+    public Computer() {
+        this.speicherplatz = 256; // Standardwert
+        this.besitzer = "Unbekannt"; // Standardwert
+    }
+
+    // Methodenüberladung! Gleicher Name, aber andere Parameter!
+    // 2. Eigener Konstruktor mit Parametern Speicherplatz und Besitzer
+    public Computer(int speicherplatz, String besitzer) {
         this.speicherplatz = speicherplatz;
-        this.besitzer = "unbekannt";
+        this.besitzer = besitzer;
     }
 }
